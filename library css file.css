@@ -1,0 +1,63 @@
+*{
+margin:0;
+padding:0;
+}
+input,select{
+vertical-align-middle;
+}
+.menu{
+height:150px;
+width:100%;
+background-color:(#800000);
+}
+.menu h1{
+padding-left:2px;
+color:white;
+}
+header{
+height:150px;
+width:100%;
+background-color:#800000;
+}
+
+.logo{
+height:50px;
+width:40px;
+float:left;
+padding-top:10px;
+padding-left:50px;
+}
+nav{
+float:right;
+display:flex;
+word-spacing:10px;
+padding:20px;
+}
+nav li{
+display:inline-block;
+color:blue;
+line-height:80px;
+text-decoration:none;
+cursor:pointer;
+}
+nav li a{
+color:white;
+text-weight:30px;
+text-decoration:none;
+}
+.box{
+height:340px;
+width:450px;
+background-color:black;
+margin:50px auto;
+opacity:.7;
+color:white;
+padding:20px;
+}
+.login{
+margin:auto 40px;
+}
+input{
+height:25px;
+width:200px;
+}

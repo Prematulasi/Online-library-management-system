@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>library</title>
+</head>
+<body background="C:\Users\balag\OneDrive\Documents\Desktop\FullSTACK\pic.avif">
+<center>
+<div style="height:370px;
+	width:450px;
+        background-color:black;
+	margin:50px auto;
+	opacity:.7;
+	color:white;
+	padding:15px;
+	border-radius:20px;">
+<table style="padding:20px">
+<h1 style="padding:10px;"><font size=7 color=yellow>Add Book</font></hr>
+<tr>
+<th><font color=white size=5 face=Algerian>Book Id</font></th>
+<th>:</th>
+<th><input type="textbox" style="border-radius:8px;padding:6px;border-color:white;background:transparent;"></th>
+</tr>
+<tr></tr>
+<tr>
+<th> <font color=white size=5 face=Algerian>Book Name</font></th>
+<th>:</th>
+<th><input type="textbox" style="border-radius:8px;padding:6px;border-color:white;background:transparent;"></th>
+</tr>
+<tr>
+</tr>
+<tr>
+<th><font color=white size=5 face=Algerian>Publisher</font></th>
+<th>:</th>
+<th><input type="textbox" style="border-radius:8px;padding:6px;border-color:white;background:transparent;"></th>
+</tr>
+<tr></tr>
+<tr>
+<th><font color=white size=5 face=Algerian>Price</font></th>
+<th>:</th>
+<th><input type="typebox" style="border-radius:8px;padding:6px;border-color:white;background:transparent;"></th>
+</tr>
+<tr></tr>
+<tr>
+<th><font color=white size=5 face=Algerian>Publisher Year</font></th>
+<th>:</th>
+<th><input type="textbox" style="border-radius:8px;padding:6px;border-color:white;background:transparent;"></th>
+</tr>
+<tr>
+</tr>
+<tfooter>
+<tr>
+<th>
+</th>
+<th>
+<button>Submit</button>
+</th>
+</tr>
+</tfooter>
+</table>
+</center>
+</body>
+</html>

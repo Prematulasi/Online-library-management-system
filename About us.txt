@@ -1,0 +1,38 @@
+<html>
+<head>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>library</title>
+<link rel="stylesheet" type="text/CSS" href=library.css>
+<link rel="stylesheet" href="sidebar.css">
+<style>
+body{
+padding:0px;
+height:100vh;
+width: 100%;
+background-image:url('pic.avif');
+background-size:cover;
+background-position:center center;
+}
+</style>
+</head>
+<body>
+<section id="about">
+<center>
+<h2><font color=yellow size=5>About us</font></h2>
+<table height=300 width=1000 cellspacing=50 cellpadding=100 style=border:border-collapse>
+<tr>
+<th>
+<div class="Main">
+<img style="border-color:blue;border-radius:5px;" src="D:\FULL STACK MEAN\Libray Mangement System\img.jpeg">
+</th>
+<th colspan=2>
+<th><font color=white size=4>D.PREMA TULASI(23471A05BQ)<br>
+    CSE-C section<br>
+<p>Library management system it helps students to login <br>the app easily and take the books with in this app it <br>can reduce the time for students to compare to offline library<p></font>
+</th>
+</div>
+<center>
+</section>
+</body>
+</html>

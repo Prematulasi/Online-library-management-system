@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>menu</title>
+</head>
+<body background="C:\Users\balag\OneDrive\Documents\Desktop\FullSTACK\pic.avif">
+<ul style="margin:10px;padding:30px;">
+<li style="border:solid;border-radius:7px;position:fixed;background:red;padding:10px;"><a href=addbook.html  target=books style="text-color:white;text-decoration:none;padding:5px;font-size:23px;"><img src="D:\FULL STACK MEAN\Libray Mangement System\5.jpeg" height=25px width=50px>
+Add Book</a></li><br><br><br><br>
+<li style="border:solid;border-radius:7px;position:fixed;background:red;padding:10px;"><a href="issue book.html"  target=books style="font-color:white;text-decoration:none;text-align:center;padding:5px;font-size:23px;"><img src="D:\FULL STACK MEAN\Libray Mangement System\7.jpeg" height=25px width=50px>Issue Book</a></li><br><br><br><br>
+<li style="border:solid;border-radius:7px;position:fixed;background:red;padding:10px;"><a href="return book.html" target=books style="text-color:white;text-decoration:none;text-align:center;padding:5px;font-size:23px;"><img src="D:\FULL STACK MEAN\Libray Mangement System\6.jpeg" height=25px width=40px>Return Book</a></li><br><br><br><br>
+<li style="border:solid;border-radius:7px;position:fixed;background:red;padding:10px;"><a href="logout.html" target=books style="text-color:white;text-decoration:none;text-align:center;padding:5px;font-size:30px;"><img src="D:\FULL STACK MEAN\Libray Mangement System\8.jpeg" height=25px width=30px>&nbsp log  out</a></li><br><br>
+<ul>
+</body>
+</html>
+
+

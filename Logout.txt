@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>logout</title>
+</head>
+<body background="C:\Users\balag\OneDrive\Documents\Desktop\FullSTACK\pic.avif">
+<div style="height:100px;
+	width:300px;
+        background-color:white;
+	margin:50px auto;
+	opacity:.7;
+	color:white;
+	padding:15px;
+	border-radius:10px;
+        border-color: black;">
+<table align=center style=border-border:collapse>
+<tr bgcolor=white>
+<th>LogOut
+</th>
+</tr>
+<tr>
+<th>Do you want to logout?
+</th>
+</tr>
+<tr>
+<th>
+<br>
+<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp<button bgcolor=gray align="right">yes</button>
+<button bgcolor=gray align="right">No</button>
+</th>
+</tr>
+</table>
+</div>
+</body>
+</html>

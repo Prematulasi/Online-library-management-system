@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>issue book</title>
+</head>
+<body background="C:\Users\balag\OneDrive\Documents\Desktop\FullSTACK\pic.avif">
+<center>
+<div style="height:350px;
+	width:450px;
+        background-color:white;
+	margin:50px auto;
+	opacity:.7;
+	color:white;
+	padding:15px;
+	border-radius:20px;">
+<h1><font size=7 color=orangered>Issue Book</font></h1>
+<table style="padding:10px;">
+<tr>
+<th><font color=limegreen size=5 face=Algerian>Book Id</font></th>
+<th>:</th>
+<th><input type="textbox" style="border-radius:8px;padding:6px;border-color:blue;background:transparent;"></th>
+</tr>
+<tr></tr>
+<tr>
+<th> <font color=limegreen size=5 face=Algerian>Student ID</font></th>
+<th>:</th>
+<th><input type="textbox" style="border-radius:8px;padding:6px;border-color:blue;background:transparent;"></th>
+</tr>
+<tr>
+</tr>
+<tr>
+<th><font color=limegreen size=5 face=Algerian>Book Name</font></th>
+<th>:</th>
+<th><input type="textbox" style="border-radius:8px;padding:6px;border-color:blue;background:transparent;"></th>
+</tr>
+<tr></tr>
+<tr>
+<th><font color=limegreen size=5 face=Algerian>Issue Date</font></th>
+<th>:</th>
+<th><input type="typebox" style="border-radius:8px;padding:6px;border-color:blue;background:transparent;"></th>
+</tr>
+<tr></tr>
+<tr>
+<th><font color=limegreen size=5 face=Algerian>Due Date</font></th>
+<th>:</th>
+<th><input type="textbox" style="border-radius:8px;padding:6px;border-color:blue;background:transparent;"></th>
+</tr>
+<tr>
+</tr>
+<tr>
+<th>
+</th>
+<th>
+<button>Submit</button></th>
+</tr>
+</table>
+</div
+</center>
+</body>
+</html>
